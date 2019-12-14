@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f0bc7d4-e319-48b0-ac59-c841f0e77f33" name="Default Changelist" comment="" />
+    <list default="true" id="9f0bc7d4-e319-48b0-ac59-c841f0e77f33" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/cNet_D.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cNet_D.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cNet/cNet/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/cNet/cNet/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cNet/cNet/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/cNet/cNet/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cNet/shelfpatch/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/cNet/shelfpatch/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cNet/shelfpatch/templates/shelfPatch/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/cNet/shelfpatch/templates/shelfPatch/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,12 +17,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cNet/shelfPatch/apps.py">
+        <entry file="file://$PROJECT_DIR$/cNet/shelfpatch/apps.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="22" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="22" />
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -22,8 +30,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cNet/cNet/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+            <state relative-caret-position="452">
+              <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -31,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cNet/cNet/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="357">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
               <folding>
                 <element signature="e#628#660#0" expanded="true" />
               </folding>
@@ -41,10 +49,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cNet/shelfPatch/urls.py">
+        <entry file="file://$PROJECT_DIR$/cNet/shelfpatch/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -53,24 +61,32 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cNet/shelfPatch/views.py">
+        <entry file="file://$PROJECT_DIR$/cNet/shelfpatch/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="85">
               <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cNet/shelfPatch/templates/shelfPatch/index.html">
+        <entry file="file://$PROJECT_DIR$/cNet/shelfpatch/templates/shelfPatch/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3555">
-              <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+            <state relative-caret-position="143">
+              <caret line="271" column="29" selection-start-line="271" selection-start-column="29" selection-end-line="271" selection-end-column="29" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>img</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -78,18 +94,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cNet/cNet/settings.py" />
-        <option value="$PROJECT_DIR$/cNet/cNet/urls.py" />
         <option value="$PROJECT_DIR$/cNet/shelfPatch/urls.py" />
         <option value="$PROJECT_DIR$/cNet/shelfPatch/views.py" />
+        <option value="$PROJECT_DIR$/cNet/cNet/urls.py" />
+        <option value="$PROJECT_DIR$/cNet/cNet/settings.py" />
+        <option value="$PROJECT_DIR$/cNet/shelfpatch/apps.py" />
+        <option value="$PROJECT_DIR$/cNet/shelfpatch/templates/shelfPatch/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1578" />
-    <option name="y" value="67" />
-    <option name="width" value="758" />
-    <option name="height" value="676" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="60" />
+    <option name="y" value="45" />
+    <option name="width" value="1162" />
+    <option name="height" value="491" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -97,47 +115,71 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="cNet_D" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cNet_D" type="462c0819:PsiDirectoryNode" />
+              <item name="cnt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnt" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="cNet_D" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cNet_D" type="462c0819:PsiDirectoryNode" />
-              <item name="cNet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cNet_D" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cNet_D" type="462c0819:PsiDirectoryNode" />
-              <item name="cNet" type="462c0819:PsiDirectoryNode" />
+              <item name="cnt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnt" type="462c0819:PsiDirectoryNode" />
               <item name="cNet" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="cNet_D" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cNet_D" type="462c0819:PsiDirectoryNode" />
+              <item name="cnt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnt" type="462c0819:PsiDirectoryNode" />
               <item name="cNet" type="462c0819:PsiDirectoryNode" />
-              <item name="shelfPatch" type="462c0819:PsiDirectoryNode" />
+              <item name="cNet" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="cNet_D" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cNet_D" type="462c0819:PsiDirectoryNode" />
+              <item name="cnt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnt" type="462c0819:PsiDirectoryNode" />
               <item name="cNet" type="462c0819:PsiDirectoryNode" />
-              <item name="shelfPatch" type="462c0819:PsiDirectoryNode" />
+              <item name="shelfpatch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnt" type="462c0819:PsiDirectoryNode" />
+              <item name="cNet" type="462c0819:PsiDirectoryNode" />
+              <item name="shelfpatch" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnt" type="462c0819:PsiDirectoryNode" />
+              <item name="cNet" type="462c0819:PsiDirectoryNode" />
+              <item name="shelfpatch" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="shelfpatch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnt" type="462c0819:PsiDirectoryNode" />
+              <item name="cNet" type="462c0819:PsiDirectoryNode" />
+              <item name="shelfpatch" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnt" type="462c0819:PsiDirectoryNode" />
+              <item name="cNet" type="462c0819:PsiDirectoryNode" />
+              <item name="shelfpatch" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="shelfPatch" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -154,11 +196,22 @@
   <component name="SvnConfiguration">
     <configuration />
   </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f0bc7d4-e319-48b0-ac59-c841f0e77f33" name="Default Changelist" comment="" />
+      <created>1576349314938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576349314938</updated>
+    </task>
+    <servers />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="1578" y="67" width="758" height="676" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18377976" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -169,7 +222,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
-      <window_info active="true" anchor="bottom" x="62" y="227" width="720" height="389" id="Terminal" order="9" type="FLOATING" visible="true" weight="0.22456814" />
+      <window_info active="true" anchor="bottom" x="301" y="573" width="720" height="389" id="Terminal" order="9" type="FLOATING" visible="true" weight="0.22456814" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -178,51 +231,54 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cNet/shelfPatch/apps.py">
+    <entry file="file://$PROJECT_DIR$/cNet/shelfpatch/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cNet/cNet/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+        <state relative-caret-position="85">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cNet/cNet/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="357">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
           <folding>
             <element signature="e#628#660#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cNet/shelfPatch/urls.py">
+    <entry file="file://$PROJECT_DIR$/cNet/shelfpatch/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cNet/shelfPatch/views.py">
+    <entry file="file://$PROJECT_DIR$/cNet/cNet/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="452">
+          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cNet/shelfPatch/templates/shelfPatch/index.html">
+    <entry file="file://$PROJECT_DIR$/cNet/shelfpatch/apps.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3555">
-          <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cNet/shelfpatch/templates/shelfPatch/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="271" column="29" selection-start-line="271" selection-start-column="29" selection-end-line="271" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
